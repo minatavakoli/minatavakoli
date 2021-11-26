@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @minatavakoli
-- 👀 I’m interested in front end programming
+- 👀 I’m interested in frontend programming
 - 📫 minatavakoli74@gmail.com
 
 <!---
